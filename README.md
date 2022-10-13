@@ -3,7 +3,7 @@ ici repose des heures perdus
 
 la je vais expliquer les différentes parties du code source, j'ai utilisé Visual Studio et pas de l'assembleur 
 #masomaispassuicidaire
-et je n'utilise pas de librairie externe, si vous avez pas windows en système d'éxploitation ou un processeur 32 bits, 
+et je n'utilise pas de librairie externe, si vous avez pas windows en système d'éxploitation ou votre processeur est un processeur 32 bits, 
 vous avez le source code, compilez-le vous-même. 
 
 la y'a les librairie de base.
